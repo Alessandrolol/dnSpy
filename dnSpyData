@@ -60,29 +60,6 @@
   <section _="42cb1310-641d-4eb7-971d-16dc5cf9a40d" />
   <section _="4d05c47d-3f6a-429e-9cb3-232e10d45468" />
   <section _="53863c11-df95-43f2-8f86-5e9dfcce6893">
-    <section _="FileLists" name="(Default)">
-      <section _="FileList" name="(Default)">
-        <section _="File" name="C:\Users\djpij\source\repos\Mono obfuscator\Mono obfuscator\bin\Debug\StupidTemplate.dll.dll" />
-      </section>
-    </section>
-    <section _="TabGroupWindow" index="0" is-horizontal="False" name="Main">
-      <section _="StackedContent" horizontal="True">
-        <section _="Length" l="0.95*" />
-      </section>
-      <section _="TabGroup" index="0">
-        <section _="Tab">
-          <section _="Content" _g_="de0390b0-747c-4f53-9cff-1d10b93dd5dd" Language="4162dada-67c3-4de4-a5f3-6552c8353ece" />
-          <section _="Path">
-            <section _="Name" id="ab10c139-2735-4595-9e47-2ee0ee247c6d" name="C:\USERS\DJPIJ\SOURCE\REPOS\MONO OBFUSCATOR\MONO OBFUSCATOR\BIN\DEBUG\STUPIDTEMPLATE.DLL.DLL" />
-            <section _="Name" id="597b3358-a6f5-47ea-b0d2-57edd1208333" name="C:\USERS\DJPIJ\SOURCE\REPOS\MONO OBFUSCATOR\MONO OBFUSCATOR\BIN\DEBUG\STUPIDTEMPLATE.DLL.DLL" />
-            <section _="Name" id="21fe74fa-4413-4f4f-964c-63dc966d66cc" />
-            <section _="Name" id="eb18e75b-3627-405f-b7a0-b2f38fcdc071" name=".FuckYouSkidder" />
-          </section>
-          <section _="TabUI" zoom="1" />
-          <section _="UI" CaretAffinity="Successor" CaretPosition="0" CaretVirtualSpaces="0" TopLinePosition="0" TopLineVerticalDistance="0" ViewportLeft="0" />
-        </section>
-      </section>
-    </section>
   </section>
   <section _="5e4c09be-8239-4275-b797-dcbce63aefc4" />
   <section _="642b9276-3c9a-4efe-9b3b-d62046824b18">
